@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pure-auth/core.git"
+    "url": "git+https://github.com/pure-auth/pure-auth.git"
   },
   "publishConfig": {
     "access": "public"
